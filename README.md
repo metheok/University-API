@@ -1,7 +1,10 @@
 # University-API
+
 University booking time slots API
 
+# Start:
 
-Start: 
     npm install
+
+
     npm start
