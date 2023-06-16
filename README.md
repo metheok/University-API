@@ -6,5 +6,4 @@ University booking time slots API
 
     npm install
 
-
     npm start
